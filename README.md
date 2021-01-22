@@ -2,15 +2,6 @@
 
 <h1 align="center">404 Error</h1>
 
-
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Contact](#contact)
-
 <!-- OVERVIEW -->
 
 ## Overview
