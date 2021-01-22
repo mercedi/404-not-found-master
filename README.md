@@ -19,7 +19,7 @@ Creating a simply mockup of a 404 error page
 
 ### Built With
 
-HTML, CSS use flex layout
+HTML, CSS
 
 
 ## Contact
